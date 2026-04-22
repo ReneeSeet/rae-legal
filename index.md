@@ -25,4 +25,4 @@ We use information to provide app functionality, generate outputs, authenticate 
 - OpenAI (text processing for generated outputs)
 - Firebase Analytics (usage analytics, where enabled)
 ## 4. Contact Us
-Email: privacy@yourdomain.com
+Email: rae.app.support@gmail.com
